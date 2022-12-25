@@ -1,1 +1,50 @@
-# nba_PBP_analysis
+![Banner](https://github.com/zachmort/youtube_analytics/blob/main/NBA_banner.png)
+
+
+# Table of contents
+- [Project Title](#NBA_Play_by_Play_Analysis)
+- [Preview](#preview)
+- [Packages Used](#Packages-Used)
+- [Table of contents](#table-of-contents)
+
+
+
+# NBA_Play_by_Play_Analysis
+<!-- Add banner here -->
+
+![GitHub last commit](https://img.shields.io/github/last-commit/zachmort/nba_PBP_analysis)
+![GitHub issues](https://img.shields.io/github/issues-raw/zachmort/nba_PBP_analysis)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/zachmort/nba_PBP_analysis)
+
+<!-- Describe your project in brief -->
+Documentation: https://googleapis.github.io/google-api-python-client/docs/dyn/youtube_v3.html
+Channel ID finder: https://commentpicker.com/youtube-channel-id.php
+youtube.com link: youtube.com
+
+
+Have you ever wonderd what was the most popuar or most liked video of your favorte youtuber? Well I have! 
+I analyzed one of my most watched channels to get more insight into how well thier video performance.
+
+Questions I had going into this project:
+- How has channel growth trended over time?
+- What is the most watched video?
+- What is correlation between likes, views, comments, duration in seconds.
+- What is the distribution of likes/views ratio per video?
+
+# Preview
+<!-- Add a demo for your project -->
+Below is a screenshot of one of the Seaborn charts I created:
+
+![Picture](https://github.com/zachmort/youtube_analytics/blob/main/images/Likes_to_Views_Ratio_Distribution.png)
+
+<!-- ADD Tableau studio dashbaord below -->
+
+# Packages Used
+- Pandas
+- Seaborn
+- googleapiclient.discovery 
+- Matplotlib
+- Datetime
+- tqdm
+- sys
+

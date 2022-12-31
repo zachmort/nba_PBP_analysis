@@ -1,4 +1,4 @@
-![Banner](https://github.com/zachmort/youtube_analytics/blob/main/NBA_banner.png)
+![Banner](https://github.com/zachmort/nba_PBP_analysis/blob/main/NBA_banner.png)
 
 
 # Table of contents
@@ -17,19 +17,17 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/zachmort/nba_PBP_analysis)
 
 <!-- Describe your project in brief -->
-Documentation: https://googleapis.github.io/google-api-python-client/docs/dyn/youtube_v3.html
-Channel ID finder: https://commentpicker.com/youtube-channel-id.php
-youtube.com link: youtube.com
+GitHub Repo: https://github.com/swar/nba_api
+YouTube walkthrough: https://www.youtube.com/watch?v=odCb5jczq9Y&ab_channel=LearnWithJabe
 
 
-Have you ever wonderd what was the most popuar or most liked video of your favorte youtuber? Well I have! 
-I analyzed one of my most watched channels to get more insight into how well thier video performance.
+The (unofficial) NBA play by play stats is a robust package created by Swar Patel that contains data on a play by play basis for all NBA games.
+This is an analysis looking at the questions below:
 
-Questions I had going into this project:
-- How has channel growth trended over time?
-- What is the most watched video?
-- What is correlation between likes, views, comments, duration in seconds.
-- What is the distribution of likes/views ratio per video?
+- What is the variability of TS% on a game by game basis
+- What player has the most lob assits and to who
+- Add Question
+- Add Question
 
 # Preview
 <!-- Add a demo for your project -->
@@ -40,6 +38,7 @@ Below is a screenshot of one of the Seaborn charts I created:
 <!-- ADD Tableau studio dashbaord below -->
 
 # Packages Used
+- NBA API
 - Pandas
 - Seaborn
 - googleapiclient.discovery 

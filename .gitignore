@@ -1,0 +1,4 @@
+# This is a git ignore file
+nba_data.csv.csv
+__pycache__
+.ipynb_checkpoints

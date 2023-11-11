@@ -1,15 +1,16 @@
-![Banner](https://github.com/zachmort/nba_PBP_analysis/blob/main/NBA_banner.png)
+<img src="https://github.com/zachmort/nba_PBP_analysis/blob/main/NBA_banner.png" alt="NBABanner" width="700" height="400"/>
+<!-- ![Banner](https://github.com/zachmort/nba_PBP_analysis/blob/main/images/NBA_banner.png) -->
 
 
 # Table of contents
-- [Project Title](#NBA_Play_by_Play_Analysis)
+- [Project Title](#NBA-Play-by-Play-Analysis)
 - [Preview](#preview)
 - [Packages Used](#Packages-Used)
-- [Table of contents](#table-of-contents)
+- [PBP Repo](#table-of-contents)
 
 
 
-# NBA_Play_by_Play_Analysis
+# NBA Play by Play Analysis
 <!-- Add banner here -->
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/zachmort/nba_PBP_analysis)
@@ -17,27 +18,40 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/zachmort/nba_PBP_analysis)
 
 <!-- Describe your project in brief -->
-GitHub Repo: https://github.com/swar/nba_api
-YouTube walkthrough: https://www.youtube.com/watch?v=odCb5jczq9Y&ab_channel=LearnWithJabe
-
+<h3>Analysis of Play by Play data for the 2020 NBA season!</h3>
 
 The (unofficial) NBA play by play stats is a robust package created by Swar Patel that contains data on a play by play basis for all NBA games.
 This is an analysis looking at the questions below:
 
-- What is the variability of TS% on a game by game basis
-- What player has the most lob assits and to who
-- Add Question
-- Add Question
+- What players exhibit the most True Shooting Variability
+- What players assist on the most lobs
+- Team Wins
+- Player win impact
 
 # Preview
 <!-- Add a demo for your project -->
-Below is a screenshot of one of the Seaborn charts I created:
+Below is a screenshot of a few of the charts you can find in the dash!
 
-![Picture](https://github.com/zachmort/youtube_analytics/blob/main/images/Likes_to_Views_Ratio_Distribution.png)
+<p float="left">
+    <img src="https://github.com/zachmort/youtube_analytics/blob/main/images/Likes_to_Views_Ratio_Distribution.png" alt="ChartImg" width="49%" height="200"/>
+    <img src="https://github.com/zachmort/youtube_analytics/blob/main/images/Likes_to_Views_Ratio_Distribution.png" alt="ChartImg" width="49%" height="200"/>
+</p>
+
+<!-- <img src="https://github.com/zachmort/youtube_analytics/blob/main/images/Likes_to_Views_Ratio_Distribution.png" alt="ChartImg" width="33%" height="300"/> -->
+<!-- ![Picture](https://github.com/zachmort/youtube_analytics/blob/main/images/Likes_to_Views_Ratio_Distribution.png) -->
 
 <!-- ADD Tableau studio dashbaord below -->
+GitHub Repo: https://github.com/swar/nba_api
+</br>YouTube walkthrough: https://www.youtube.com/watch?v=odCb5jczq9Y&ab_channel=LearnWithJabe
 
-# Packages Used
+
+# Built With
+This project was built using the follwing:
+
+* [![Python][Python]][Python-url]
+* [![NBAAPI][NBAAPI]][NBAAPI-url]
+<!-- * [![Plotly][Plotly]][Plotly-url] -->
+
 - NBA API
 - Pandas
 - Seaborn
@@ -47,3 +61,13 @@ Below is a screenshot of one of the Seaborn charts I created:
 - tqdm
 - sys
 
+
+<!-- Markdown Links -->
+[Python]: https://img.shields.io/badge/Python-0769AD?style=for-the-badge&logo=Python&logoColor=white
+[Python-url]: https://www.python.org/
+[Spotipy]: https://img.shields.io/badge/Spotipy-0769AD?style=for-the-badge&logo=Spotipy&logoColor=white
+[Spotipy-url]: https://spotipy.readthedocs.io/en/2.22.1/
+[Streamlit]: https://img.shields.io/badge/Streamlit-0769AD?style=for-the-badge&logo=Streamlit&logoColor=white
+[Streamlit-url]: https://streamlit.io/
+[Plotly]: https://img.shields.io/badge/-Plotly-black.svg?style=for-the-badge&logo=Plotly&colorB=555
+[Plotly-url]: https://plotly.com/

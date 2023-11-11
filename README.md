@@ -1,12 +1,14 @@
 <img src="https://github.com/zachmort/nba_PBP_analysis/blob/main/images/NBA_banner.png" alt="NBABanner" width="700" height="400"/>
-<!-- ![Banner](https://github.com/zachmort/nba_PBP_analysis/blob/main/images/NBA_banner.png) -->
 
 
 # Table of contents
 - [Project Title](#NBA-Play-by-Play-Analysis)
 - [Preview](#preview)
 - [Packages Used](#Packages-Used)
-- [PBP Repo](#table-of-contents)
+- [Built With](#built-with)
+- [PBP Repo](#reference-links)
+<!-- - [Packages Used](#packages-used) -->
+
 
 
 
@@ -37,22 +39,15 @@ Below is a screenshot of a few of the charts you can find in the dash!
     <img src="https://github.com/zachmort/nba_PBP_analysis/blob/main/images/scatter.png" alt="ChartImg" width="49%" height="300"/>
 </p>
 
-<!-- <img src="https://github.com/zachmort/youtube_analytics/blob/main/images/Likes_to_Views_Ratio_Distribution.png" alt="ChartImg" width="33%" height="300"/> -->
-<!-- ![Picture](https://github.com/zachmort/youtube_analytics/blob/main/images/Likes_to_Views_Ratio_Distribution.png) -->
-
-<!-- ADD Tableau studio dashbaord below -->
-GitHub Repo: https://github.com/swar/nba_api
-</br>YouTube walkthrough: https://www.youtube.com/watch?v=odCb5jczq9Y&ab_channel=LearnWithJabe
 
 
 # Built With
 This project was built using the follwing:
+[![Python][Python]][Python-url]
+[![NBAAPI][NBAAPI]][NBAAPI-url]
 
-* [![Python][Python]][Python-url]
-* [![NBAAPI][NBAAPI]][NBAAPI-url]
-<!-- * [![Plotly][Plotly]][Plotly-url] -->
 
-- NBA API
+# Packages Used
 - Pandas
 - Seaborn
 - googleapiclient.discovery 
@@ -60,6 +55,10 @@ This project was built using the follwing:
 - Datetime
 - tqdm
 - sys
+
+# Reference Links
+GitHub Repo: https://github.com/swar/nba_api
+</br>YouTube walkthrough: https://www.youtube.com/watch?v=odCb5jczq9Y&ab_channel=LearnWithJabe
 
 
 <!-- Markdown Links -->

@@ -34,7 +34,7 @@ Below is a screenshot of a few of the charts you can find in the dash!
 
 <p float="left">
     <img src="https://github.com/zachmort/youtube_analytics/blob/main/images/Likes_to_Views_Ratio_Distribution.png" alt="ChartImg" width="49%" height="200"/>
-    <img src="https://github.com/zachmort/youtube_analytics/blob/main/images/Likes_to_Views_Ratio_Distribution.png" alt="ChartImg" width="49%" height="200"/>
+    <img src="https://github.com/zachmort/youtube_analytics/blob/main/images/spiderplot.png" alt="ChartImg" width="49%" height="200"/>
 </p>
 
 <!-- <img src="https://github.com/zachmort/youtube_analytics/blob/main/images/Likes_to_Views_Ratio_Distribution.png" alt="ChartImg" width="33%" height="300"/> -->
@@ -69,5 +69,5 @@ This project was built using the follwing:
 [Spotipy-url]: https://spotipy.readthedocs.io/en/2.22.1/
 [Streamlit]: https://img.shields.io/badge/Streamlit-0769AD?style=for-the-badge&logo=Streamlit&logoColor=white
 [Streamlit-url]: https://streamlit.io/
-[Plotly]: https://img.shields.io/badge/-Plotly-black.svg?style=for-the-badge&logo=Plotly&colorB=555
-[Plotly-url]: https://plotly.com/
+[NBAAPI]: https://img.shields.io/badge/-NBAAPI-black.svg?style=for-the-badge&logo=NBAAPI&colorB=555
+[NBAAPI-url]: https://github.com/swar/nba_api

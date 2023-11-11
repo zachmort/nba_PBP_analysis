@@ -33,7 +33,7 @@ This is an analysis looking at the questions below:
 Below is a screenshot of a few of the charts you can find in the dash!
 
 <p float="left">
-    <img src="https://github.com/zachmort/nba_PBP_analysis/blob/main/images/bar" alt="ChartImg" width="49%" height="300"/>
+    <img src="https://github.com/zachmort/nba_PBP_analysis/blob/main/images/bar.png" alt="ChartImg" width="49%" height="300"/>
     <img src="https://github.com/zachmort/nba_PBP_analysis/blob/main/images/scatter.png" alt="ChartImg" width="49%" height="300"/>
 </p>
 

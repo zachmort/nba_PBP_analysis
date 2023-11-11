@@ -42,7 +42,7 @@ Below is a screenshot of a few of the charts you can find in the dash!
 
 
 # Built With
-This project was built using the follwing:
+This project was built using the follwing: </br>
 [![Python][Python]][Python-url]
 [![NBAAPI][NBAAPI]][NBAAPI-url]
 
